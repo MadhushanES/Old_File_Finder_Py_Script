@@ -8,3 +8,5 @@ Used Libraries:
 There are two script files:
   Old_Files_Finder_python3.py : This is for environments that install Python 3
   Old_Files_Finder_python2.py : This is for environments that installed Python 2 (Some linux environment python 2 is already installed with the os)
+
+-by Madhushan Pilapitiya
